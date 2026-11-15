@@ -1,0 +1,5 @@
+Python is a useful programming language.
+A good program is clear, useful, and easy to test.
+Python makes it possible to build small tools and games.
+A guessing game uses numbers, attempts, and a score.
+A word counter reads text and counts each word.

@@ -1,0 +1,7 @@
+I created Project 02 – Number Guessing Game & Word Counter using Python.
+
+The guessing game selects a random number from 1 to 100, gives the player seven valid attempts, provides higher/lower hints, and tracks a score and best score.
+
+Scoring rule: The player starts with 100 points and loses 10 points for each incorrect valid guess. The score cannot go below zero. Invalid inputs and out-of-range guesses do not use an attempt.
+
+The word counter reads a UTF-8 text file, ignores case and punctuation, and uses collections.Counter to display total words, unique words, and the ten most common words.
